@@ -1,14 +1,14 @@
-# Opaa, eu sou o Elias :v:
+# Oi, eu sou o Elias :v:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/elias-inacio0)
 [![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)](https://codepen.io/eliasinacio)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/_oeliasdev)
 
-Tenho 23 anos e sou de Juazeiro do Norte, Ceará, Brasil. <br>
+Sou de Juazeiro do Norte, Ceará, Brasil. <br>
 Gosto de ouvir lo-fi e criar pixel arts. 
 
 Estudo programação e desenvolvimento web desde 2019 e sou graduado em Análise e Desenvolvimento de Sistemas pela Uninter. <br>
-Atuo como Desenvolvedor Fullstack Pleno na [JBQ.Global](https://jbq.global). Há 4 anos trabalhando com Oracle Commerce Cloud (Classic e OSF).
+Atuo como Desenvolvedor Fullstack na [JBQ.Global](https://jbq.global). Há 5 anos trabalhando com Oracle Commerce Cloud (Classic e OSF).
 
 Essas são algumas tecnologias com as quais já trabalhei:
 
