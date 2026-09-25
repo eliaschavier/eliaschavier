@@ -2,7 +2,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/elias-inacio0)
 [![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)](https://codepen.io/eliasinacio)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/_oeliasdev)
 
 Sou Desenvolvedor Full Stack com 5+ anos de experiência desenvolvendo soluções e integrações para Oracle Commerce Cloud. Tenho trabalhado principalmente com React e Node.js, além de um pouco de TypeScript e Python.
 
@@ -14,13 +13,11 @@ Sou graduado em Análise e Desenvolvimento de Sistemas pela Uninter.
 
 Algumas das tecnologias com as quais tenho experiência:
 
-![Python Icon](https://img.icons8.com/color/36/000000/python.png "Python")
 ![Javascript Icon](https://img.icons8.com/color/36/000000/javascript.png "Javascript")
 ![Typescript Icon](https://img.icons8.com/color/36/000000/typescript.png "Typescript")
 ![NodeJs Icon](https://img.icons8.com/fluency/36/node-js.png "NodeJS")
 ![React Icon](https://img.icons8.com/officel/36/000000/react.png "ReactJS")
-![Styled Components Icon](https://img.icons8.com/emoji/36/000000/nail-polish-.png "Styled Components")
-![Sass Icon](https://img.icons8.com/color/36/000000/sass.png "Sass")
+![Python Icon](https://img.icons8.com/color/36/000000/python.png "Python")
 
 Fora do código, amo fotografar, jogar xadrez, andar de skate, criar pixel arts e, é claro, ouvir um bom lo-fi.
 
