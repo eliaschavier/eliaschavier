@@ -21,4 +21,4 @@ Fora do código, amo fotografar, jogar xadrez, andar de skate, criar pixel arts 
 
 De vez em quando crio algumas pixel arts [aqui :)](https://www.pixilart.com/oeliasdev)
 
-> *Faça pouco ou faça muito, mas faça algo todo dia.*
+> *Faça pouco ou faça muito, mas faça algo todos os dias.*
