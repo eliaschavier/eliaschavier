@@ -17,7 +17,7 @@ Algumas das tecnologias com as quais tenho experiência:
 ![React Icon](https://img.icons8.com/officel/36/000000/react.png "ReactJS")
 ![Python Icon](https://img.icons8.com/color/36/000000/python.png "Python")
 
-Fora do código, amo fotografar, jogar xadrez, andar de skate, criar pixel arts e, é claro, ouvir um bom lo-fi.
+Além de código, amo fotografar, jogar xadrez, andar de skate, criar pixel arts e ouvir música (principalmente lo-fi).
 
 De vez em quando crio algumas pixel arts [aqui :)](https://www.pixilart.com/oeliasdev)
 
