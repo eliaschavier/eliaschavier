@@ -22,8 +22,6 @@ Algumas das tecnologias com as quais tenho experiência:
 ![Styled Components Icon](https://img.icons8.com/emoji/36/000000/nail-polish-.png "Styled Components")
 ![Sass Icon](https://img.icons8.com/color/36/000000/sass.png "Sass")
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eliaschavier&layout=donut&theme=tokyonight)
-
 Fora do código, amo fotografar, jogar xadrez, andar de skate, criar pixel arts e, é claro, ouvir um bom lo-fi.
 
 De vez em quando crio algumas pixel arts [aqui :)](https://www.pixilart.com/oeliasdev)
