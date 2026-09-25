@@ -9,8 +9,6 @@ Prezo sempre por escrever código simples, limpo e performático e, atualmente, 
 
 Sou graduado em Análise e Desenvolvimento de Sistemas pela Uninter.
 
-## Tecnologias
-
 Algumas das tecnologias com as quais tenho experiência:
 
 ![Javascript Icon](https://img.icons8.com/color/36/000000/javascript.png "Javascript")
@@ -18,8 +16,6 @@ Algumas das tecnologias com as quais tenho experiência:
 ![NodeJs Icon](https://img.icons8.com/fluency/36/node-js.png "NodeJS")
 ![React Icon](https://img.icons8.com/officel/36/000000/react.png "ReactJS")
 ![Python Icon](https://img.icons8.com/color/36/000000/python.png "Python")
-
----
 
 Fora do código, amo fotografar, jogar xadrez, andar de skate, criar pixel arts e, é claro, ouvir um bom lo-fi.
 
